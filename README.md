@@ -37,7 +37,7 @@ The system is synthesized into **five primary sub-systems** adhering to modulari
 5. **Daily Service Counter:**
    * Three cascaded 4-bit BCD counters (max value `0x9`) track total daily entries with an independent asynchronous reset.
 
-*(Add your exported Logisim schematics below)*
+
 ![Main Circuit Schematic](<img width="1273" height="733" alt="image" src="https://github.com/user-attachments/assets/c2350218-2e82-46f8-af56-e7837a02242b" />
 )
 
